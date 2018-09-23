@@ -1,2 +1,2 @@
-# projects
-All my selected projects from courses at Loyola Marymount University.
+# Projects
+Example projects from my courses at Loyola Marymount University.
