@@ -1,0 +1,12 @@
+[submodule "cmsi186-programming-lab"]
+	path = cmsi186-programming-lab
+	url = https://github.com/dmoini/cmsi186-programming-lab.git
+[submodule "cmsi281-data-structures"]
+	path = cmsi281-data-structures
+	url = https://github.com/dmoini/cmsi281-data-structures.git
+[submodule "cmsi282-algorithms"]
+	path = cmsi282-algorithms
+	url = https://github.com/dmoini/cmsi282-algorithms.git
+[submodule "cmsi284-computer-systems-organization"]
+	path = cmsi284-computer-systems-organization
+	url = https://github.com/dmoini/cmsi284-computer-systems-organization.git
