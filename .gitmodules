@@ -10,3 +10,12 @@
 [submodule "cmsi284-computer-systems-organization"]
 	path = cmsi284-computer-systems-organization
 	url = https://github.com/dmoini/cmsi284-computer-systems-organization.git
+[submodule "cmsi370-interaction-design"]
+	path = cmsi370-interaction-design
+	url = https://github.com/dmoini/cmsi370-interaction-design.git
+[submodule "cmsi386-programming-languages"]
+	path = cmsi386-programming-languages
+	url = https://github.com/dmoini/cmsi386-programming-languages.git
+[submodule "cmsi485-artificial-intelligence"]
+	path = cmsi485-artificial-intelligence
+	url = https://github.com/dmoini/cmsi485-artificial-intelligence.git
