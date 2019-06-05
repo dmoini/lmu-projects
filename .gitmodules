@@ -37,3 +37,6 @@
 [submodule "casper"]
 	path = casper
 	url = https://github.com/dmoini/casper
+[submodule "fortnite-stat-tracker"]
+	path = fortnite-stat-tracker
+	url = https://github.com/dmoini/fortnite-stat-tracker
