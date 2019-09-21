@@ -1,6 +1,6 @@
 # Projects
 
-List of projects and class assignments from my courses at Loyola Marymount University.
+List of projects and courses completed during my time at Loyola Marymount University. If you cannot access the repository for any of the listed projects or courses, that is because it has been changed to a private repository. If you would like access to said repository, please contact me.
 
 ## Courses
 
