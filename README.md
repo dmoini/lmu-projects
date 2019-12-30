@@ -1,6 +1,6 @@
 # Projects
 
-List of projects and courses completed during my time at Loyola Marymount University. If you cannot access the repository for any of the listed projects or courses, that is because it has been changed to a private repository. If you would like access to said repository, please contact me at [donovanmoini@gmail.com](mailto:donovanmoini@gmail.com).
+This repository hosts a list of projects and courses I worked on and/or completed during my time at Loyola Marymount University. If you cannot access the repository for any of the listed projects or courses, that is because it has been changed to a private repository. If you would like access to said repository, please contact me at [donovanmoini@gmail.com](mailto:donovanmoini@gmail.com).
 
 ## Courses
 
